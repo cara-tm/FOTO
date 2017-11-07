@@ -1,0 +1,11 @@
+#@public
+#@language en-gb
+close_lightbox => press <a href="#" onclick="hideLightbox(); return false;"><span>x</span></a> key to close
+#@language en-us
+close_lightbox => press <a href="#" onclick="hideLightbox(); return false;"><span>x</span></a> key to close
+#@language de-de
+close_lightbox => <a href="#" onclick="hideLightbox(); return false;"><span>x</span></a>-Taste zum Schließen
+#@language es-es
+close_lightbox => Tecla <a href="#" onclick="hideLightbox(); return false;"><span>x</span></a> para cerrar
+#@language fr-fr
+close_lightbox => touche <a href="#" onclick="hideLightbox();return false;"><span>x</span></a> pour fermer
