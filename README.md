@@ -9,5 +9,5 @@ Overlay custom color over the hero image (user can choose it easily through a co
 Images from section pages display from the home page:
 ![FOTO Theme for Textattern CMS 4.7+](https://raw.githubusercontent.com/cara-tm/FOTO/master/FOTO-theme.png)
 
-Full width photo display from a photo gallery:
+Full width photo display from a photo gallery (Textpack files provided for multilingual support):
 ![FOTO Theme for Textattern CMS 4.7+](https://raw.githubusercontent.com/cara-tm/FOTO/master/FOTO-theme-gallery.png)
