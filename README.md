@@ -11,3 +11,6 @@ Images from section pages display from the home page:
 
 Full width photo display from a photo gallery (Textpack files provided for multilingual support):
 ![FOTO Theme for Textattern CMS 4.7+](https://raw.githubusercontent.com/cara-tm/FOTO/master/FOTO-theme-gallery.png)
+
+Internet Explorer 6 minimum capable, here is a screen shot from Internet Explorer 7 (real browser, not an emulator):
+![FOTO Theme for Textattern CMS 4.7+](https://raw.githubusercontent.com/cara-tm/FOTO/master/FOTO-theme-ie7.png)
