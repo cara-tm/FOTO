@@ -3,7 +3,7 @@ A prenium Textpattern CMS theme for photos lovers (coming soon as soon as TXP 4.
 
 A beautiful, handcrafted theme based on the latest front-end specs in webdesign with graceful enhancement from floating to Flexbox and finally CSS Grid Layout for a large online target audience and a pretty good browsers support: Internet Explorer 6 minimum capable!
 
-Intelligent multilingual automatic support where UI elements are available and translated into 4 langues: English, Spanish, Deutch and French with message to foreign visitors to your locale pages (default: English for non supported translations).
+Intelligent multilingual automatic support where UI elements are available and translated into 4 languages: English, Spanish, Deutch and French with message to your foreign visitors pointed to your inner locale pages (default: English for non supported translations).
 Compact vanilla javascript scripts with no dependencies included for simple but effective user experiences.
 Lightweight to offer bandwidth and ressources to your photographies.
 Full width for large displays and responsive for small screens, too.
