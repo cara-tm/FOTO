@@ -1,10 +1,10 @@
 # FOTO
-A prenium Textpattern CMS theme for photos lovers (coming soon as soon as TXP 4.7 will be available)
+A prenium Textpattern CMS theme for photos lovers (coming as soon as TXP 4.7 will be available)
 
 A beautiful, handcrafted theme based on the latest front-end specs in webdesign with graceful enhancement from floating to Flexbox and finally CSS Grid Layout for a large online target audience and a pretty good browsers support: Internet Explorer 6 minimum capable!
 
 Intelligent multilingual automatic support where UI elements are available and translated into 4 languages: English, Spanish, Deutch and French with message to your foreign visitors pointed to your inner locale pages (default: English for non supported translations).
-Compact vanilla javascript scripts with no dependencies included for simple but effective user experiences.
+Compact vanilla js scripts with no dependencies included for simple but effective user experiences.
 Lightweight to offer bandwidth and ressources to your photographies.
 Full width for large displays and responsive for small screens, too.
 
