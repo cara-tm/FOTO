@@ -1,7 +1,12 @@
 # FOTO
-A prenium Textpattern CMS theme for photos lovers (in development)
+A prenium Textpattern CMS theme for photos lovers (coming soon as soon as TXP 4.7 will be available)
 
-A prenium, beautiful, handcrafted and responsive Textpattern CMS theme (upcoming 4.7 version with skins support) for photos lovers who need a large audiance, made with latest front-end specs and graceful enhancements; a good browser support: Internet Explorer 6 minimum!
+A beautiful, handcrafted theme based on the latest front-end specs in webdesign with graceful enhancement from floating to Flexbox and finally CSS Grid Layout for a large online target audience and a pretty good browsers support: Internet Explorer 6 minimum capable!
+
+Intelligent multilingual automatic support where UI elements are available and translated into 4 langues: English, Spanish, Deutch and French with message to foreign visitors to your locale pages (default: English for non supported translations).
+Compact vanilla javascript scripts with no dependencies included for simple but effective user experiences.
+Lightweight to offer bandwidth and ressources to your photographies.
+Full width for large displays and responsive for small screens, too.
 
 Overlay custom color over the hero image (user can choose it easily through a color wheel):
 ![FOTO Theme for Textattern CMS 4.7+](https://raw.githubusercontent.com/cara-tm/FOTO/master/FOTO-theme-sample-2.png)
