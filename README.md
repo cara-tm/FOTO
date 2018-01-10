@@ -8,6 +8,22 @@ Compact vanilla js scripts with no dependencies included for simple but effectiv
 Lightweight to offer bandwidth and ressources to your photographies.
 Full width for large displays and responsive for small screens, too.
 
+*Features*:
+
+- Unique and original theme;
+- Responsive and very light coding;
+- Pretty good browsers support: Internet Explorer 6 minimum!;
+- Layout build with graceful enhancement: from the oldy floating school, to "flexbox" until the latest spec "CSS Grid Layout";
+- Visitors language detection;
+- Simple multilingual support where all UI elements are translated with a "default" home page template available in different languages;
+- 4 languages included, simple addition for others for your conveniencies;
+- Automatic hreflang links generation based on sections names;
+- Google AMP capable with the same appearence as the normal website version;
+- Support for "Facebook Instant Articles" included;
+- JSON-LD included for SEO best practice;
+- Dynamic sitemaps (in 3 versions) included (XML, RSS, and hreflang); for SEO best practice
+- Well documented with a "How to Do" PDF document for your guidance.
+
 Overlay custom color over the hero image (user can choose it easily through a color wheel):
 ![FOTO Theme for Textattern CMS 4.7+](https://raw.githubusercontent.com/cara-tm/FOTO/master/FOTO-theme-sample-2.png)
 
